@@ -33,7 +33,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Python_fuctions" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -294,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653326923909</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge master and main">
+      <created>1653411250088</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653411250089</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +325,7 @@
     <MESSAGE value="The Functions" />
     <MESSAGE value="Udp: name from Function_argument.py to Function.py&#10;New Function_argument.py" />
     <MESSAGE value="Add Recurtion.py and Lambda_function.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Recurtion.py and Lambda_function.py" />
+    <MESSAGE value="Merge master and main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge master and main" />
   </component>
 </project>
