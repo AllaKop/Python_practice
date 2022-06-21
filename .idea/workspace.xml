@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Delete redundant package">
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/Characters/Hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/Characters/Villain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/Characters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/Weapons/Gun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/Weapons/Knife.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/Weapons/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_packages/__init__.py" afterDir="false" />
+    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Add Python_packages">
+      <change afterPath="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Datatypes/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Datatypes/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Datatypes/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Datatypes/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +68,8 @@
       <recent name="$PROJECT_DIR$/Python_flow_control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Function_argument" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lists">
+    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_functions/Function_argument.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lambda_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_functions/Lambda_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recurtion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +119,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_functions/Recurtion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,34 +195,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_flow_control/while_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lists" />
+        <item itemvalue="Python.Dictionaries" />
+        <item itemvalue="Python.Set" />
+        <item itemvalue="Python.Tuple" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.while_loop" />
-        <item itemvalue="Python.Recurtion" />
-        <item itemvalue="Python.Lambda_function" />
-        <item itemvalue="Python.Function_argument" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653411561741</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Python_packages">
+      <created>1653413438108</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653413438108</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,6 +348,7 @@
     <MESSAGE value="Add Recurtion.py and Lambda_function.py" />
     <MESSAGE value="Merge master and main" />
     <MESSAGE value="Delete redundant package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete redundant package" />
+    <MESSAGE value="Add Python_packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Python_packages" />
   </component>
 </project>
