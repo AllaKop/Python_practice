@@ -1,3 +1,5 @@
+# List is an ordered sequence of items. Mutable.
+
 Languages = ['Python', 'Java', 'Scala', '.NET']
 
 print(Languages[2:])

@@ -1,3 +1,5 @@
+# Set is unordered sequence of unique items.
+
 #set comprehension
 
 word = 'programing'

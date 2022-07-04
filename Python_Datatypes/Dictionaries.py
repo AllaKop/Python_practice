@@ -1,3 +1,5 @@
+# Dictionary is unordered sequence of items with a key.
+
 #dictionaries comprehension
 
 numbers = [1, 2, 3, 4, 5,]
