@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Add Python_Datatypes&#10;Lists done">
-      <change afterPath="$PROJECT_DIR$/Python_Datatypes/Strings.py" afterDir="false" />
+    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Datatypes/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Datatypes/Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Datatypes/Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Datatypes/Set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Datatypes/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Datatypes/Tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="$PROJECT_DIR$/Python_flow_control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Strings">
+  <component name="RunManager" selected="Python.Dictionaries">
     <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dictionaries" />
+        <item itemvalue="Python.Set" />
         <item itemvalue="Python.Strings" />
         <item itemvalue="Python.Tuple" />
         <item itemvalue="Python.Lists" />
-        <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.Set" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655829676733</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py">
+      <created>1656954061518</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656954061519</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,6 +361,7 @@
     <MESSAGE value="Delete redundant package" />
     <MESSAGE value="Add Python_packages" />
     <MESSAGE value="Add Python_Datatypes&#10;Lists done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Python_Datatypes&#10;Lists done" />
+    <MESSAGE value="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py" />
   </component>
 </project>
