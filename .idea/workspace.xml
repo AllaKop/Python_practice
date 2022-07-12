@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py">
+    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Changed Dictionaries.py, Set.py">
+      <change afterPath="$PROJECT_DIR$/Python_files/Custom_expections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_files/File_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_files/Python_directories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_files/Python_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_files/message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_files/message1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Datatypes/Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Datatypes/Set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +58,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_file_operations" />
       <recent name="$PROJECT_DIR$/Python_flow_control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dictionaries">
-    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Custom_expections">
+    <configuration name="Custom_expections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_files/Custom_expections.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="File_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_file_operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_file_operations/File_operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python IO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_file_operations/file_I" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_file_operations/Python IO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python_directories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_file_operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_file_operations/Python_directories.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python_exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Datatypes/Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_files/Python_exception.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.Set" />
-        <item itemvalue="Python.Strings" />
-        <item itemvalue="Python.Tuple" />
-        <item itemvalue="Python.Lists" />
+        <item itemvalue="Python.Custom_expections" />
+        <item itemvalue="Python.Python_exception" />
+        <item itemvalue="Python.Python_directories" />
+        <item itemvalue="Python.File_operations" />
+        <item itemvalue="Python.Python IO" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656954061519</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Changed Dictionaries.py, Set.py">
+      <created>1657305373385</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657305373386</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +362,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="The tasks for if...elif...else topic" />
     <MESSAGE value="The tasks for &quot;for loop&quot;" />
     <MESSAGE value="The tasks for &quot;while loop&quot;" />
@@ -362,6 +377,7 @@
     <MESSAGE value="Add Python_packages" />
     <MESSAGE value="Add Python_Datatypes&#10;Lists done" />
     <MESSAGE value="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py" />
+    <MESSAGE value="Changed Dictionaries.py, Set.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Dictionaries.py, Set.py" />
   </component>
 </project>
