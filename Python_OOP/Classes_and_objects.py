@@ -2,7 +2,6 @@ class Person:
 
     def __init__(self, name, age, sex, high, weight):
         self.name = name
-
         self.age = age
         self.sex = sex
         self.high = high

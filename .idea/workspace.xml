@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Python Files added">
-      <change afterPath="$PROJECT_DIR$/Python_OOP/Classes_and_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP/Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP/Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_OOP/__init__.py" afterDir="false" />
+    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Python OOP directory added">
+      <change afterPath="$PROJECT_DIR$/Python_OOP/Multiple_inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_OOP/Classes_and_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_OOP/Classes_and_objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_OOP/Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_OOP/Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
       <recent name="$PROJECT_DIR$/Python_flow_control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Classes_and_objects">
+  <component name="RunManager" selected="Python.Multiple_inheritance">
     <configuration name="Classes_and_objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Multiple_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/OOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Multiple_inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Multiple_inheritance" />
+        <item itemvalue="Python.Inheritance" />
         <item itemvalue="Python.Classes_and_objects" />
         <item itemvalue="Python.Polymorphism" />
         <item itemvalue="Python.Encapsulation" />
-        <item itemvalue="Python.Inheritance" />
-        <item itemvalue="Python.OOP" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657647510834</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Python OOP directory added">
+      <created>1657820975434</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1657820975435</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,6 +389,7 @@
     <MESSAGE value="Add Strings&#10;Changed Lists.py, Dictionaries.py, Set.py, Tuple.py" />
     <MESSAGE value="Changed Dictionaries.py, Set.py" />
     <MESSAGE value="Python Files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Files added" />
+    <MESSAGE value="Python OOP directory added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python OOP directory added" />
   </component>
 </project>
