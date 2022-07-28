@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Added directory Python_Advance:&#10;- Python_closure.py">
-      <change afterPath="$PROJECT_DIR$/Addvance_topics/Python_decorators.py" afterDir="false" />
+    <list default="true" id="76d89045-1dfb-4d5e-81d5-e15efd42c835" name="Changes" comment="Added directory Python_Advance:&#10;- Python_decorators.py">
+      <change afterPath="$PROJECT_DIR$/Addvance_topics/Property_decorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +66,8 @@
       <recent name="$PROJECT_DIR$/Python_flow_control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Python_decorators">
-    <configuration name="Operator_overloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Property_decorator">
+    <configuration name="Property_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Addvance_topics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/Operator_overloading.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Addvance_topics/Property_decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Property_decorator" />
         <item itemvalue="Python.Python_decorators" />
         <item itemvalue="Python.Python_closure" />
         <item itemvalue="Python.Python_generators" />
         <item itemvalue="Python.Python_iterator" />
-        <item itemvalue="Python.Operator_overloading" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658854329056</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added directory Python_Advance:&#10;- Python_decorators.py">
+      <created>1658940415915</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658940415916</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,6 +427,7 @@
     <MESSAGE value="Added file Operator_overloading.py&#10;Added directory Python_Advance:&#10;- Python_iterator.py" />
     <MESSAGE value="Added directory Python_Advance:&#10;- Python_generators.py" />
     <MESSAGE value="Added directory Python_Advance:&#10;- Python_closure.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added directory Python_Advance:&#10;- Python_closure.py" />
+    <MESSAGE value="Added directory Python_Advance:&#10;- Python_decorators.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added directory Python_Advance:&#10;- Python_decorators.py" />
   </component>
 </project>
